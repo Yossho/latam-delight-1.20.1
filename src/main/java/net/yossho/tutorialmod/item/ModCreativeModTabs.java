@@ -19,6 +19,7 @@ public class ModCreativeModTabs {
                     .displayItems(((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.VINEGAR.get());
                         pOutput.accept(ModItems.CORN_DOUGH.get());
+                        pOutput.accept(ModItems.CORN.get());
 
 
                     })

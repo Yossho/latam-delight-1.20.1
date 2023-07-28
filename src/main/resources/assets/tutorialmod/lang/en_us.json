@@ -1,6 +1,7 @@
 {
   "item.tutorialmod.vinegar": "Vinegar",
   "item.tutorialmod.corn_dough": "Corn dough",
+  "item.tutorialmod.corn": "Corn",
 
-  "creativetab.tutorial_tab": "Tutorial Tabulador"
+  "creativetab.tutorial_tab": "Tutorial Mod"
 }
