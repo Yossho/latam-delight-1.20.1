@@ -20,6 +20,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.VINEGAR.get());
                         pOutput.accept(ModItems.CORN_DOUGH.get());
                         pOutput.accept(ModItems.CORN.get());
+                        pOutput.accept(ModItems.TORTILLA.get());
 
 
                     })
