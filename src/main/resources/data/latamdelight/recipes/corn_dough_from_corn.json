@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "tutorialmod:corn"
+      "item": "latamdelight:corn"
     }
   ],
   "result": {
-    "item": "tutorialmod:corn_dough",
+    "item": "latamdelight:corn_dough",
     "count": 2
   }
 }

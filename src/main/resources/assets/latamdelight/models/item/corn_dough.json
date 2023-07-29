@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tutorialmod:item/corn_dough"
+    "layer0": "latamdelight:item/corn_dough"
   }
 }

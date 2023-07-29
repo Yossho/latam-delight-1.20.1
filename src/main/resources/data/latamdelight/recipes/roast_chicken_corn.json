@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "farmersdelight:cooked_chicken_cuts"
+    },
+    {
+      "item": "tutorialmod:corn"
+    },
+    {
+      "item": "farmersdelight:rice"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:roast_chicken_corn"
+  }
+}
