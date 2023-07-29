@@ -20,9 +20,10 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.VINEGAR.get());
                         pOutput.accept(ModItems.CORN_DOUGH.get());
                         pOutput.accept(ModItems.CORN.get());
-                        pOutput.accept(ModItems.TORTILLA.get());
                         pOutput.accept(ModItems.ROAST_CHICKEN_CORN.get());
-
+                        pOutput.accept(ModItems.TORTILLA.get());
+                        pOutput.accept(ModItems.TORTILLA_CHIPS.get());
+                        pOutput.accept(ModItems.SHREDDED_BEEF.get());
 
                     })
             )

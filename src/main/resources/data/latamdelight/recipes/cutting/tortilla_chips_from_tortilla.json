@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "latamdelight:tortilla"
+    }
+  ],
+  "result": [
+    {
+      "count": 3,
+      "item": "latamdelight:tortilla_chips"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

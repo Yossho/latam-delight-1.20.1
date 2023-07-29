@@ -2,8 +2,10 @@
   "item.latamdelight.vinegar": "Vinegar",
   "item.latamdelight.corn_dough": "Corn dough",
   "item.latamdelight.corn": "Corn",
-  "item.latamdelight.tortilla": "Tortilla",
   "item.latamdelight.roast_chicken_corn": "Roast Chicken Corn",
+  "item.latamdelight.tortilla": "Tortilla",
+  "item.latamdelight.tortilla_chips": "Tortilla Chips",
+  "item.latamdelight.shredded_beef": "Shredded Beef",
 
   "creativetab.latamdelight_tab": "Latam Delight"
 }
