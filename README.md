@@ -1,7 +1,7 @@
 
 # Latam Delight
 
-<img src="https://i.imgur.com/jaG4vWd.png" width="50%">
+<img src="https://i.imgur.com/Ofdafg6.png" width="100%">
 
 "Latam Delight" is an addon for "Farmer's Delight" mainly focused on expand the base mod bringing new foods and crops from Latin American; Delicious meals from all around the North (Mexico), Center and South America!
 
