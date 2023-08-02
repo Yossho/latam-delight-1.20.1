@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:cooked_chicken_cuts"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "latamdelight:jalapeno"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:jocon"
+  }
+}

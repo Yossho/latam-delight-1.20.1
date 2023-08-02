@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 190,
+  "experience": 0.5,
+  "ingredients": [
+    {
+      "item": "latamdelight:jalapeno"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "latamdelight:green_sauce"
+  }
+}

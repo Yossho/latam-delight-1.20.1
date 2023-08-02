@@ -4,7 +4,7 @@
   "cookingtime": 200,
   "experience": 0,
   "ingredient": {
-    "item": "tutorialmod:corn_dough"
+    "item": "latamelight:corn_dough"
   },
-  "result": "tutorialmod:tortilla"
+  "result": "latamdelight:tortilla"
 }

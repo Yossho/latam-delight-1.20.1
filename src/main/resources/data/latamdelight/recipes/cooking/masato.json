@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 360,
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "latamdelight:masato"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  }
+}

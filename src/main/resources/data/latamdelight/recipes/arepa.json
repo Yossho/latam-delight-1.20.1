@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "latamdelight:corn_dough"
+    },
+    {
+      "item": "farmersdelight:cooked_mutton_chops"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:cheese_piece"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:arepa"
+  }
+}

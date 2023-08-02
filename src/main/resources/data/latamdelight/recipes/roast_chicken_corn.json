@@ -12,13 +12,13 @@
       "item": "farmersdelight:cooked_chicken_cuts"
     },
     {
-      "item": "tutorialmod:corn"
+      "item": "latamdelight:corn"
     },
     {
-      "item": "farmersdelight:rice"
+      "item": "farmersdelight:cooked_rice"
     }
   ],
   "result": {
-    "item": "tutorialmod:roast_chicken_corn"
+    "item": "latamdelight:roast_chicken_corn"
   }
 }

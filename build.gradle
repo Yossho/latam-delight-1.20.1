@@ -110,8 +110,10 @@ repositories {
 
 dependencies {
     minecraft "net.minecraftforge:forge:1.20.1-47.1.0"
+
     implementation fg.deobf("curse.maven:farmers-delight-398521:4638874")
     implementation fg.deobf("curse.maven:appleskin-248787:4605078")
+    implementation fg.deobf("curse.maven:jei-238222:4644453")
 
     // For more info:
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html

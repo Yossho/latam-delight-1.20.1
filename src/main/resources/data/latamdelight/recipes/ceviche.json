@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "farmersdelight:cod_slice"
+    },
+    {
+      "item": "farmersdelight:cod_slice"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:ceviche"
+  }
+}

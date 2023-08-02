@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 0.2,
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "latamdelight:vinegar"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  }
+}

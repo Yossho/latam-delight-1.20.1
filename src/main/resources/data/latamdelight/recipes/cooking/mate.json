@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "latamdelight:leaf_mate"
+    },
+    {
+      "item": "latamdelight:leaf_mate"
+    },
+    {
+      "item": "latamdelight:leaf_mate"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "latamdelight:mate"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  }
+}

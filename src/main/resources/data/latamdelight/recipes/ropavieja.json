@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "latamdelight:shredded_beef"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:ropavieja"
+  }
+}

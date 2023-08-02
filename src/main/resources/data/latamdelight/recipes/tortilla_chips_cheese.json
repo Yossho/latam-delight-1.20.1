@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "latamdelight:tortilla_chips"
+    },
+    {
+      "item": "latamdelight:cheese_piece"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:tortilla_chips_cheese",
+    "count": 1
+  }
+}

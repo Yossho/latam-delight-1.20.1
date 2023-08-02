@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cooked_mutton_chops"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "latamdelight:corn"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:tomatican",
+    "count": 1
+  }
+}

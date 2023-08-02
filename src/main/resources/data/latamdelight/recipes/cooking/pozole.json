@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 260,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "latamdelight:corn"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "latamdelight:pozole"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

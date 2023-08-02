@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "latamdelight:corn"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "latamdelight:chicheme"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  }
+}

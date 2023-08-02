@@ -4,6 +4,9 @@
   "ingredients": [
     {
       "item": "latamdelight:corn"
+    },
+    {
+      "item": "minecraft:water_bucket"
     }
   ],
   "result": {

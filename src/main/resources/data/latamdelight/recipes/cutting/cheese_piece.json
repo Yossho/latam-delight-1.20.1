@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "latamdelight:cheese"
+    }
+  ],
+  "result": [
+    {
+      "count": 4,
+      "item": "latamdelight:cheese_piece"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

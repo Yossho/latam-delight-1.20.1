@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "latamdelight:tortilla"
+    },
+    {
+      "item": "farmersdelight:cabbage_leaf"
+    },
+    {
+      "item": "farmersdelight:cooked_cod_slice"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:taco_cod"
+  }
+}

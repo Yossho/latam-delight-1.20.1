@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "latamdelight:beans"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "latamdelight:gallopinto"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}
