@@ -3,6 +3,8 @@
   "block.latamdelight.jalapeno_crop": "Jalapeno Crop",
   "block.latamdelight.beans_bag": "Bag of Beans",
   "block.latamdelight.beans_crop": "Beans Crop",
+  "block.latamdelight.garlic_crate": "Garlic Crate",
+  "block.latamdelight.garlic_crop": "Garlic Crop",
 
   "item.latamdelight.vinegar": "Vinegar",
   "item.latamdelight.corn_dough": "Corn Dough",
@@ -10,6 +12,8 @@
   "item.latamdelight.corn_seeds": "Corn Seeds",
   "item.latamdelight.corn": "Corn",
   "item.latamdelight.beans": "Beans",
+  "item.latamdelight.garlic": "Garlic",
+  "item.latamdelight.garlic_clove": "Garlic Clove",
   "item.latamdelight.cheese": "Cheese",
   "item.latamdelight.cheese_piece": "Piece of Cheese",
   "item.latamdelight.roast_chicken_corn": "Roast Chicken Corn",
@@ -50,6 +54,10 @@
   "item.latamdelight.ceviche": "Ceviche",
   "item.latamdelight.arepa": "Arepa",
   "item.latamdelight.causa": "Causa",
+  "item.latamdelight.stroganoff": "Stroganoff",
+  "item.latamdelight.chipa_guazu": "Chipa Guazú",
+  "item.latamdelight.milanese": "Milanese",
 
-  "creativetab.latamdelight_tab": "Latam Delight"
+  "creativetab.latamdelight_tab": "Latam Delight",
+  "effect.latamdelight.spicy": "Spicy!"
 }

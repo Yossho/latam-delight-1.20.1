@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "latamdelight:green_sauce"
+    },
+    {
+      "item": "latamdelight:tortilla_chips"
+    },
+    {
+      "item": "latamdelight:tortilla_chips"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:chilaquiles_green"
+  }
+}

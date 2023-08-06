@@ -6,16 +6,13 @@
       "item": "latamdelight:corn_dough"
     },
     {
-      "item": "minecraft:wheat"
-    },
-    {
-      "item": "minecraft:sugar"
+      "item": "minecraft:egg"
     },
     {
       "item": "latamdelight:cheese_piece"
     }
   ],
   "result": {
-    "item": "latamdelight:cachapa"
+    "item": "latamdelight:chipa_guazu"
   }
 }

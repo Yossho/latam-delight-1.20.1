@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "latamdelight:jalapeno_crate"
+      "item": "latamdelight:garlic_crate"
     }
   ],
   "result": {
-    "item": "latamdelight:jalapeno",
+    "item": "latamdelight:garlic",
     "count": 9
   }
 }

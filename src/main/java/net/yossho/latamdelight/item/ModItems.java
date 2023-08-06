@@ -38,10 +38,17 @@ public class ModItems {
                     new Item.Properties()));
     public static final RegistryObject<Item> CORN_SEEDS = ITEMS.register("corn_seeds",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> GARLIC = ITEMS.register("garlic",
+            () -> new ItemNameBlockItem(ModBlocks.GARLIC_CROP.get(),
+                    new Item.Properties()));
+    public static final RegistryObject<Item> GARLIC_CLOVE = ITEMS.register("garlic_clove",
+            () -> new Item(new Item.Properties()));
 
     //
     // CONSUMABLES
     //
+    public static final RegistryObject<Item> CORN = ITEMS.register("corn",
+            () -> new Item(new Item.Properties().food(ModFoods.CORN)));
     public static final RegistryObject<Item> JALAPENO = ITEMS.register("jalapeno",
             () -> new ItemNameBlockItem(ModBlocks.JALAPENO_CROP.get(),
                     new Item.Properties().food(ModFoods.JALAPENO)));
@@ -49,8 +56,6 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.CHEESE)));
     public static final RegistryObject<Item> CHEESE_PIECE = ITEMS.register("cheese_piece",
             () -> new Item(new Item.Properties().food(ModFoods.CHEESE_PIECE)));
-    public static final RegistryObject<Item> CORN = ITEMS.register("corn",
-            () -> new Item(new Item.Properties().food(ModFoods.CORN)));
     public static final RegistryObject<Item> TORTILLA = ITEMS.register("tortilla",
             () -> new Item(new Item.Properties().food(ModFoods.TORTILLA)));
     public static final RegistryObject<Item> TORTILLA_CHIPS = ITEMS.register("tortilla_chips",
@@ -130,6 +135,15 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.AREPA)));
     public static final RegistryObject<Item> CAUSA = ITEMS.register("causa",
             () -> new Item(new Item.Properties().food(ModFoods.CAUSA)));
+    public static final RegistryObject<Item> STROGANOFF = ITEMS.register("stroganoff",
+            () -> new Item(new Item.Properties().food(ModFoods.STROGANOFF)));
+    public static final RegistryObject<Item> CHIPA_GUAZU = ITEMS.register("chipa_guazu",
+            () -> new Item(new Item.Properties().food(ModFoods.CHIPA_GUAZU)));
+    public static final RegistryObject<Item> MILANESE = ITEMS.register("milanese",
+            () -> new Item(new Item.Properties().food(ModFoods.MILANESE)));
+    //
+    // DRINKS
+    //
     public static final RegistryObject<Item> MATE;
     static {
         MATE = ITEMS.register("mate",() -> new DrinkableItem(bottleFoodItem(ModFoods.MATE), true));}

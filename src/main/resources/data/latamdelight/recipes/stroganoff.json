@@ -9,14 +9,16 @@
       "item": "farmersdelight:cooked_mutton_chops"
     },
     {
-      "item": "farmersdelight:tomato_sauce"
+      "item": "minecraft:potato"
     },
     {
-      "item": "latamdelight:corn"
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:red_mushroom"
     }
   ],
   "result": {
-    "item": "latamdelight:tomatican",
-    "count": 1
+    "item": "latamdelight:stroganoff"
   }
 }

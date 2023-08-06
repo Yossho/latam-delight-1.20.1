@@ -20,17 +20,20 @@ public class ModCreativeModTabs {
                     .displayItems(((pParameters, pOutput) -> {
 
                         pOutput.accept(ModBlocks.JALAPENO_CRATE.get());
+                        pOutput.accept(ModBlocks.GARLIC_CRATE.get());
                         pOutput.accept(ModBlocks.BEANS_BAG.get());
 
-                        pOutput.accept(ModItems.VINEGAR.get());
-                        pOutput.accept(ModItems.CORN_SEEDS.get());
                         pOutput.accept(ModItems.CORN.get());
+                        pOutput.accept(ModItems.JALAPENO.get());
+                        pOutput.accept(ModItems.GARLIC.get());
                         pOutput.accept(ModItems.BEANS.get());
+                        pOutput.accept(ModItems.CORN_SEEDS.get());
+                        pOutput.accept(ModItems.VINEGAR.get());
+                        pOutput.accept(ModItems.GARLIC_CLOVE.get());
                         pOutput.accept(ModItems.LEAF_MATE.get());
                         pOutput.accept(ModItems.MATE.get());
                         pOutput.accept(ModItems.CHICHEME.get());
                         pOutput.accept(ModItems.MASATO.get());
-                        pOutput.accept(ModItems.JALAPENO.get());
                         pOutput.accept(ModItems.CORN_DOUGH.get());
                         pOutput.accept(ModItems.TORTILLA.get());
                         pOutput.accept(ModItems.SHREDDED_BEEF.get());
@@ -38,10 +41,10 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.CHEESE_PIECE.get());
                         pOutput.accept(ModItems.GREEN_SAUCE.get());
                         pOutput.accept(ModItems.CHIMICHURRI.get());
+                        pOutput.accept(ModItems.JALAPENO_BACON.get());
                         pOutput.accept(ModItems.TORTILLA_CHIPS.get());
                         pOutput.accept(ModItems.TORTILLA_CHIPS_CHEESE.get());
                         pOutput.accept(ModItems.CHILAQUILES_GREEN.get());
-                        pOutput.accept(ModItems.CACHAPA.get());
                         pOutput.accept(ModItems.TACO_CHICKEN.get());
                         pOutput.accept(ModItems.TACO_COD.get());
                         pOutput.accept(ModItems.TACO_EGGBACON.get());
@@ -55,11 +58,13 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.TACO_SHREDDED.get());
                         pOutput.accept(ModItems.TACO_STEAK.get());
                         pOutput.accept(ModItems.TACO_VEGETABLES.get());
+                        pOutput.accept(ModItems.CACHAPA.get());
                         pOutput.accept(ModItems.AREPA.get());
+                        pOutput.accept(ModItems.CHIPA_GUAZU.get());
                         pOutput.accept(ModItems.CAUSA.get());
                         pOutput.accept(ModItems.CHORIPAN.get());
                         pOutput.accept(ModItems.JALAPENO_SANDWICH.get());
-                        pOutput.accept(ModItems.JALAPENO_BACON.get());
+                        pOutput.accept(ModItems.MILANESE.get());
                         pOutput.accept(ModItems.ROPAVIEJA.get());
                         pOutput.accept(ModItems.JOCON.get());
                         pOutput.accept(ModItems.POZOLE.get());
@@ -68,6 +73,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.CEVICHE.get());
                         pOutput.accept(ModItems.ROAST_CHICKEN_CORN.get());
                         pOutput.accept(ModItems.TOMATICAN.get());
+                        pOutput.accept(ModItems.STROGANOFF.get());
 
                     })
             )

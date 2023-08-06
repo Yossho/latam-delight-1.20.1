@@ -12,6 +12,7 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.yossho.latamdelight.block.ModBlocks;
+import net.yossho.latamdelight.effect.ModEffectsld;
 import net.yossho.latamdelight.item.ModCreativeModTabs;
 import net.yossho.latamdelight.item.ModItems;
 import net.yossho.latamdelight.loot.ModLootModifiers;
@@ -33,6 +34,7 @@ public class LatamDelight {
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
+        ModEffectsld.register(modEventBus);
         ModLootModifiers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
