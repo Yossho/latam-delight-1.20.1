@@ -17,6 +17,9 @@
     },
     {
       "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "latamdelight:garlic_clove"
     }
   ],
   "recipe_book_tab": "meals",

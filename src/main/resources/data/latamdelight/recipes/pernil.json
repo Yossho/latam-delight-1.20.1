@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "latamdelight:garlic_clove"
+    }
+  ],
+  "result": {
+    "item": "latamdelight:pernil"
+  }
+}

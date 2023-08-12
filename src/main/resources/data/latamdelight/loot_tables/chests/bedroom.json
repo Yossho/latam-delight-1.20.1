@@ -362,7 +362,7 @@
             }
           ],
           "name": "minecraft:spyglass",
-          "weight": 8
+          "weight": 10
         },
         {
           "type": "minecraft:item",
@@ -392,7 +392,7 @@
             }
           ],
           "name": "minecraft:music_disc_13",
-          "weight": 3
+          "weight": 2
         },
         {
           "type": "minecraft:item",

@@ -35,6 +35,7 @@ public class LatamDelight {
         ModBlocks.register(modEventBus);
 
         ModEffectsld.register(modEventBus);
+
         ModLootModifiers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
@@ -45,6 +46,9 @@ public class LatamDelight {
 
 
     private void commonSetup(final FMLCommonSetupEvent event) {
+        event.enqueueWork(() -> {
+        });
+
     }
 
     // Add the example block item to the building blocks tab

@@ -37,7 +37,8 @@ public class ModItems {
             () -> new ItemNameBlockItem(ModBlocks.BEANS_CROP.get(),
                     new Item.Properties()));
     public static final RegistryObject<Item> CORN_SEEDS = ITEMS.register("corn_seeds",
-            () -> new Item(new Item.Properties()));
+            () -> new ItemNameBlockItem(ModBlocks.CORN_CROP.get(),
+                    new Item.Properties()));
     public static final RegistryObject<Item> GARLIC = ITEMS.register("garlic",
             () -> new ItemNameBlockItem(ModBlocks.GARLIC_CROP.get(),
                     new Item.Properties()));
@@ -135,12 +136,21 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.AREPA)));
     public static final RegistryObject<Item> CAUSA = ITEMS.register("causa",
             () -> new Item(new Item.Properties().food(ModFoods.CAUSA)));
-    public static final RegistryObject<Item> STROGANOFF = ITEMS.register("stroganoff",
-            () -> new Item(new Item.Properties().food(ModFoods.STROGANOFF)));
     public static final RegistryObject<Item> CHIPA_GUAZU = ITEMS.register("chipa_guazu",
             () -> new Item(new Item.Properties().food(ModFoods.CHIPA_GUAZU)));
-    public static final RegistryObject<Item> MILANESE = ITEMS.register("milanese",
-            () -> new Item(new Item.Properties().food(ModFoods.MILANESE)));
+    public static final RegistryObject<Item> STROGANOFF;
+    static {
+        STROGANOFF = ITEMS.register("stroganoff",() -> new ConsumableItem(bowlFoodItem(ModFoods.STROGANOFF), true));}
+    public static final RegistryObject<Item> MILANESE;
+    static {
+        MILANESE = ITEMS.register("milanese",() -> new ConsumableItem(bowlFoodItem(ModFoods.MILANESE), true));}
+    public static final RegistryObject<Item> EGG_BEETS;
+    static {
+        EGG_BEETS = ITEMS.register("egg_beets",() -> new ConsumableItem(bowlFoodItem(ModFoods.EGG_BEETS), true));}
+    public static final RegistryObject<Item> PERNIL;
+    static {
+        PERNIL = ITEMS.register("pernil",() -> new ConsumableItem(bowlFoodItem(ModFoods.PERNIL), true));}
+
     //
     // DRINKS
     //
@@ -153,6 +163,9 @@ public class ModItems {
     public static final RegistryObject<Item> MASATO;
     static {
         MASATO = ITEMS.register("masato",() -> new DrinkableItem(bottleFoodItem(ModFoods.MASATO), true));}
+    public static final RegistryObject<Item> BEETROOT_JUICE;
+    static {
+        BEETROOT_JUICE = ITEMS.register("beetroot_juice",() -> new DrinkableItem(bottleFoodItem(ModFoods.BEETROOT_JUICE), true));}
 
 
     public static void register(IEventBus eventBus) {

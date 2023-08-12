@@ -26,12 +26,27 @@
               "count": {
                 "type": "minecraft:uniform",
                 "max": 4.0,
-                "min": 1.0
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
           ],
           "name": "minecraft:carrot",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 6.0,
+                "min": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "latamdelight:corn",
           "weight": 6
         },
         {
@@ -101,7 +116,7 @@
               "count": {
                 "type": "minecraft:uniform",
                 "max": 5.0,
-                "min": 1.0
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -307,7 +322,7 @@
       ],
       "rolls": {
         "type": "minecraft:uniform",
-        "max": 6.0,
+        "max": 7.0,
         "min": 2.0
       }
     }

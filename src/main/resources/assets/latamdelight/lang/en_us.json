@@ -1,10 +1,15 @@
 {
+  "block.latamdelight.corn_crate": "Corn Crate",
+  "block.latamdelight.corn_crop": "Corn Crop",
   "block.latamdelight.jalapeno_crate": "Jalapeno Crate",
   "block.latamdelight.jalapeno_crop": "Jalapeno Crop",
   "block.latamdelight.beans_bag": "Bag of Beans",
   "block.latamdelight.beans_crop": "Beans Crop",
   "block.latamdelight.garlic_crate": "Garlic Crate",
   "block.latamdelight.garlic_crop": "Garlic Crop",
+  "block.latamdelight.wild_jalapeno": "Wild Jalapeno",
+  "block.latamdelight.wild_beans": "Wild Beans",
+  "block.latamdelight.wild_garlic": "Wild Garlic",
 
   "item.latamdelight.vinegar": "Vinegar",
   "item.latamdelight.corn_dough": "Corn Dough",
@@ -50,6 +55,7 @@
   "item.latamdelight.mate": "Mate",
   "item.latamdelight.chicheme": "Chicheme",
   "item.latamdelight.masato": "Masato",
+  "item.latamdelight.beetroot_juice": "Beetroot Juice",
   "item.latamdelight.cachapa": "Cachapa",
   "item.latamdelight.ceviche": "Ceviche",
   "item.latamdelight.arepa": "Arepa",
@@ -57,6 +63,8 @@
   "item.latamdelight.stroganoff": "Stroganoff",
   "item.latamdelight.chipa_guazu": "Chipa Guazú",
   "item.latamdelight.milanese": "Milanese",
+  "item.latamdelight.egg_beets": "Egg with Beets",
+  "item.latamdelight.pernil": "Pernil",
 
   "creativetab.latamdelight_tab": "Latam Delight",
   "effect.latamdelight.spicy": "Spicy!"

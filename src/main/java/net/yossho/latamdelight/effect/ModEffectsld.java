@@ -13,7 +13,7 @@ public class ModEffectsld {
             = DeferredRegister.create(ForgeRegistries.MOB_EFFECTS, LatamDelight.MOD_ID);
 
     public static final RegistryObject<MobEffect> SPICY = MOB_EFFECTS.register("spicy",
-            () -> new SpicyEffect(MobEffectCategory.HARMFUL, 255130));
+            () -> new SpicyEffect(MobEffectCategory.NEUTRAL, 16733525));
     public static void register(IEventBus eventBus) {MOB_EFFECTS.register(eventBus);
     }
 
